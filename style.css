@@ -21,7 +21,25 @@
 
 @media (min-width: 768px) {
   .bd-placeholder-img-lg {
-    font-size: 3.5rem;
+    font-size: 3.5rem !important;
+  }
+}
+
+@media (max-width: 770px) {
+  h1 {
+    font-size: 8rem !important;
+  }
+}
+
+@media (max-width: 420px) {
+  h1 {
+    font-size: 6rem !important;
+  }
+}
+
+@media (max-width: 330px) {
+  h1 {
+    font-size: 4rem !important;
   }
 }
 
