@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Exo+2:200i);
+
 .rounded-4 { border-radius: .5rem; }
 .rounded-5 { border-radius: 1rem; }
 
@@ -60,8 +62,6 @@ h1 {
   text-transform: uppercase;
   animation: flicker 1.5s infinite alternate;     
 }
-
-@import url(https://fonts.googleapis.com/css?family=Exo+2:200i);
 
 :root {
   /* Base font size */
